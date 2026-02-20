@@ -137,7 +137,7 @@ const translations = {
         nav_download: "télécharger",
 
         // Hero Section
-        hero_title: "Ne ratez plus jamais une idée. Ni une suggestion brillant. Ni ce que Sarah a dit.",
+        hero_title: "Ne ratez plus jamais une idée. Ni une suggestion brillante. Ni ce que Sarah a dit.",
         hero_subtitle: "Enregistrez vos réunions, obtenez des résumés instantanés, et souvenez-vous enfin de ce qui s'est vraiment passé dans cet appel de 2 heures.",
 
         // Mission Section
