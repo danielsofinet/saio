@@ -548,26 +548,26 @@
             font-weight: 600;
         }
 
-        /* Projects Section */
-        .projects {
+        /* App UI */
+        .app-ui {
             padding: 6rem 2rem;
             background: var(--bg-secondary);
             position: relative;
             z-index: 10;
         }
 
-        .projects-header {
+        .app-ui-header {
             text-align: center;
         }
 
-        .projects-header h2 {
+        .app-ui-header h2 {
             font-family: "Calistoga", serif;
             font-size: clamp(2.5rem, 5vw, 4rem);
             font-weight: 800;
             margin-bottom: 1rem;
         }
 
-        .projects-header p {
+        .app-ui-header p {
             font-size: 1.5rem;
             color: var(--text-secondary);
         }
@@ -724,6 +724,15 @@
             font-size: 1.125rem;
             font-weight: 100;
         }
+
+        .logo-text {
+                width: 10%;
+                margin-bottom: 1rem;
+            }
+
+            .logo-text img {
+                width: 100%;
+            }
 
         /* Testimonials */
         .testimonials {
@@ -1190,7 +1199,7 @@
                 padding: 3rem 2rem 7rem 2rem;
             }
 
-            .projects {
+            .app-ui {
                 padding: 6rem 1rem;
             }
 
@@ -1204,6 +1213,15 @@
             }
 
             .casquettes-right {
+                width: 100%;
+            }
+
+            .logo-text {
+                width: 30%;
+                margin-bottom: 2rem;
+            }
+
+            .logo-text img {
                 width: 100%;
             }
 
