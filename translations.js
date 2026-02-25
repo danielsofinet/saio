@@ -51,6 +51,7 @@ const translations = {
         // Footer
         footer_copyright: "Saio © 2026",
         footer_privacy: "Privacy Policy",
+        footer_terms: "Terms of Use",
 
         // Privacy Policy
         pp_title: "Privacy Policy",
@@ -99,6 +100,32 @@ const translations = {
 
         pp_contact_title: "Contact Us",
         pp_contact_desc: "If you have questions about this Privacy Policy, contact us at support@saio-app.com.",
+
+        // Terms of Use Page
+        tos_title: "Terms of Use",
+        tos_updated: "Last updated: February 19, 2026",
+        tos_acceptance_title: "1. Acceptance of Terms",
+        tos_acceptance_desc: "By downloading, installing, or using Saio (\"the App\"), you agree to be bound by these Terms of Use. If you do not agree, do not use the App.",
+        tos_service_title: "2. Description of Service",
+        tos_service_desc: "Saio is a meeting recording and summarization app. The App records audio with your permission, transcribes it using third-party speech-to-text services, and generates meeting summaries using artificial intelligence. Recordings are processed on secure servers and are not stored after processing is complete.",
+        tos_accounts_title: "3. User Accounts",
+        tos_accounts_desc: "You must create an account to use the App. You are responsible for maintaining the confidentiality of your account credentials. You must provide accurate information during registration. You may delete your account at any time from the app settings.",
+        tos_subscriptions_title: "4. Subscriptions & Payments",
+        tos_subscriptions_desc: "Saio offers a free tier with a limited number of meetings and a paid Pro subscription. Subscriptions are billed monthly through Apple's App Store and renew automatically unless cancelled at least 24 hours before the end of the current billing period. You can manage or cancel your subscription in your Apple ID account settings. Refunds are handled by Apple in accordance with their refund policies.",
+        tos_use_title: "5. Acceptable Use",
+        tos_use_desc: "You agree to use the App only for lawful purposes. You must obtain consent from all meeting participants before recording, in accordance with applicable local laws. You may not use the App to record conversations without the knowledge of all parties where required by law. You may not attempt to reverse-engineer, decompile, or tamper with the App.",
+        tos_privacy_title: "6. Privacy & Data",
+        tos_privacy_desc: "Your privacy is important to us. Audio recordings are sent to OpenAI (Whisper) for transcription via our secure servers. Meeting transcripts are sent to Anthropic (Claude) for AI summarization. Audio files are deleted immediately after processing. No audio or transcript data is retained by these third-party services beyond what is needed for processing. Meeting transcripts and summaries are stored in your personal account and are not shared with other third parties. We use Firebase (Google) for authentication and data storage. All data processing occurs on EU-based servers. Please refer to our Privacy Policy for full details on data collection and usage.",
+        tos_ip_title: "7. Intellectual Property",
+        tos_ip_desc: "The App, its design, code, and content are the intellectual property of Saio and are protected by copyright and other intellectual property laws. Your meeting transcripts and summaries belong to you.",
+        tos_warranty_title: "8. Disclaimer of Warranties",
+        tos_warranty_desc: "The App is provided \"as is\" without warranties of any kind. We do not guarantee that transcriptions or summaries will be 100% accurate. The App relies on third-party AI services which may occasionally produce errors. We are not liable for any decisions made based on the App's output.",
+        tos_liability_title: "9. Limitation of Liability",
+        tos_liability_desc: "To the maximum extent permitted by law, Saio and its developers shall not be liable for any indirect, incidental, special, or consequential damages arising from your use of the App.",
+        tos_changes_title: "10. Changes to Terms",
+        tos_changes_desc: "We may update these Terms from time to time. Continued use of the App after changes constitutes acceptance of the updated Terms. We will notify users of significant changes through the App.",
+        tos_contact_title: "11. Contact",
+        tos_contact_desc: "If you have questions about these Terms, please contact us at support@saio-app.com.",
 
         // Support Page
         support_title: "Support",
@@ -184,6 +211,7 @@ const translations = {
         // Footer
         footer_copyright: "Saio © 2026",
         footer_privacy: "Politique de Confidentialité",
+        footer_terms: "Conditions d'utilisation",
 
         // Privacy Policy
         pp_title: "Politique de Confidentialité",
@@ -232,6 +260,32 @@ const translations = {
 
         pp_contact_title: "Nous contacter",
         pp_contact_desc: "Si vous avez des questions concernant cette Politique de Confidentialité, contactez-nous à support@saio-app.com.",
+
+        // Terms of Use Page
+        tos_title: "Conditions d'utilisation",
+        tos_updated: "Dernière mise à jour : 19 février 2026",
+        tos_acceptance_title: "1. Acceptation des conditions",
+        tos_acceptance_desc: "En téléchargeant, installant ou utilisant Saio (« l'Application »), vous acceptez d'être lié par ces Conditions d'utilisation. Si vous n'acceptez pas, n'utilisez pas l'Application.",
+        tos_service_title: "2. Description du service",
+        tos_service_desc: "Saio est une application d'enregistrement et de résumé de réunions. L'Application enregistre l'audio avec votre permission, le transcrit à l'aide de services tiers de reconnaissance vocale, et génère des résumés de réunion grâce à l'intelligence artificielle. Les enregistrements sont traités sur des serveurs sécurisés et ne sont pas stockés après la fin du traitement.",
+        tos_accounts_title: "3. Comptes utilisateur",
+        tos_accounts_desc: "Vous devez créer un compte pour utiliser l'Application. Vous êtes responsable de la confidentialité de vos identifiants. Vous devez fournir des informations exactes lors de l'inscription. Vous pouvez supprimer votre compte à tout moment depuis les paramètres de l'application.",
+        tos_subscriptions_title: "4. Abonnements et paiements",
+        tos_subscriptions_desc: "Saio propose un forfait gratuit avec un nombre limité de réunions et un abonnement Pro payant. Les abonnements sont facturés mensuellement via l'App Store d'Apple et se renouvellent automatiquement sauf annulation au moins 24 heures avant la fin de la période de facturation en cours. Vous pouvez gérer ou annuler votre abonnement dans les paramètres de votre identifiant Apple. Les remboursements sont gérés par Apple conformément à leurs politiques.",
+        tos_use_title: "5. Utilisation acceptable",
+        tos_use_desc: "Vous acceptez d'utiliser l'Application uniquement à des fins légales. Vous devez obtenir le consentement de tous les participants avant d'enregistrer, conformément aux lois locales applicables. Vous ne pouvez pas utiliser l'Application pour enregistrer des conversations à l'insu des parties lorsque la loi l'exige. Vous ne pouvez pas tenter de rétro-ingénierer, décompiler ou altérer l'Application.",
+        tos_privacy_title: "6. Confidentialité et données",
+        tos_privacy_desc: "Votre vie privée est importante pour nous. Les enregistrements audio sont envoyés à OpenAI (Whisper) pour la transcription via nos serveurs sécurisés. Les transcriptions sont envoyées à Anthropic (Claude) pour le résumé par IA. Les fichiers audio sont supprimés immédiatement après le traitement. Aucune donnée audio ou de transcription n'est conservée par ces services tiers au-delà du nécessaire. Les transcriptions et résumés sont stockés dans votre compte personnel et ne sont pas partagés avec d'autres tiers. Nous utilisons Firebase (Google) pour l'authentification et le stockage. Tout le traitement se fait sur des serveurs basés dans l'UE. Consultez notre Politique de confidentialité pour plus de détails.",
+        tos_ip_title: "7. Propriété intellectuelle",
+        tos_ip_desc: "L'Application, son design, son code et son contenu sont la propriété intellectuelle de Saio et sont protégés par le droit d'auteur et les lois sur la propriété intellectuelle. Vos transcriptions et résumés de réunion vous appartiennent.",
+        tos_warranty_title: "8. Exclusion de garanties",
+        tos_warranty_desc: "L'Application est fournie « en l'état » sans aucune garantie. Nous ne garantissons pas que les transcriptions ou résumés seront précis à 100%. L'Application repose sur des services d'IA tiers qui peuvent occasionnellement produire des erreurs. Nous ne sommes pas responsables des décisions prises sur la base des résultats de l'Application.",
+        tos_liability_title: "9. Limitation de responsabilité",
+        tos_liability_desc: "Dans la mesure maximale permise par la loi, Saio et ses développeurs ne seront pas responsables des dommages indirects, accessoires, spéciaux ou consécutifs découlant de votre utilisation de l'Application.",
+        tos_changes_title: "10. Modifications des conditions",
+        tos_changes_desc: "Nous pouvons mettre à jour ces Conditions de temps en temps. L'utilisation continue de l'Application après les modifications constitue l'acceptation des Conditions mises à jour. Nous informerons les utilisateurs des changements importants via l'Application.",
+        tos_contact_title: "11. Contact",
+        tos_contact_desc: "Si vous avez des questions concernant ces Conditions, veuillez nous contacter à support@saio-app.com.",
 
         // Support Page
         support_title: "Support",
