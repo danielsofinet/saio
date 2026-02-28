@@ -157,6 +157,10 @@ const translations = {
             ui_rec_img: "img/ui_rec.jpg",
             ui_future: "img/ui_future.jpg",
             get_it: "img/get-it-en.png",
+            ui_home_img_mac: "img/ui_home_mac_en.jpg",
+            ui_rec_img_mac: "img/ui_rec_mac_en.jpg",
+            ui_logs_img_mac: "img/ui_logs_mac_en.jpg",
+            ui_future_mac: "img/ui_future.jpg",
         }
     },
 
@@ -317,6 +321,10 @@ const translations = {
             ui_rec_img: "img/ui_rec.jpg",
             ui_future: "img/ui_future.jpg",
             get_it: "img/get-it-fr.png",
+            ui_home_img_mac: "img/ui_home_mac_fr.jpg",
+            ui_rec_img_mac: "img/ui_rec_mac_fr.jpg",
+            ui_logs_img_mac: "img/ui_logs_mac_fr.jpg",
+            ui_future_mac: "img/ui_future.jpg",
         }
     }
 };

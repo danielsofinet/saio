@@ -210,9 +210,31 @@
             </section>
 
             <!-- App UI -->
-            <section class="app-ui">
+            <section class="app-ui platform-ios">
                 <div class="app-ui-header">
                     <h2 data-i18n="feature1_title">Getting Started Is Stupidly Simple</h2>
+                </div>
+
+                <!-- Platform Tab Bar -->
+                <div class="platform-tabs">
+                    <div class="platform-tabs__track">
+                        <button class="platform-tab active" data-platform="ios">
+                            <svg class="platform-tab__icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18.22 18.22" fill="currentColor">
+                                <path d="M6.71,18.22h-.53c-.51-.15-.97-.4-1.36-.81-.92-.95-1.63-2.07-2.17-3.29-.57-1.29-.88-2.66-.93-4.07-.04-1.19.2-2.31.79-3.33.62-1.07,1.59-1.84,2.79-2.15,1.26-.33,2.21.11,3.35.56.37.15.73.16,1.1.01,1.2-.47,2.23-.9,3.52-.65,1.15.21,2.16.74,2.79,1.74-.99.65-1.7,1.48-1.89,2.67-.1.62-.07,1.24.08,1.85.31,1.26,1.17,2.07,2.3,2.63-.43,1.29-1.01,2.26-1.81,3.34-.5.68-1.16,1.4-2.06,1.46-.43.03-.82-.03-1.22-.17l-.88-.32c-.69-.25-1.41-.27-2.11-.05-.65.21-1.1.43-1.76.58Z"/>
+                                <path d="M12.07,2.59c-.74,1.02-1.64,1.75-2.97,1.63-.07-.89.18-1.75.71-2.47.62-.92,1.78-1.6,2.93-1.73.1.92-.15,1.81-.67,2.57Z"/>
+                            </svg>
+                            <span>iPhone</span>
+                        </button>
+                        <button class="platform-tab" data-platform="mac">
+                            <svg class="platform-tab__icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+                                <rect x="2" y="3" width="20" height="14" rx="2" ry="2"/>
+                                <line x1="8" y1="21" x2="16" y2="21"/>
+                                <line x1="12" y1="17" x2="12" y2="21"/>
+                            </svg>
+                            <span>Mac</span>
+                        </button>
+                        <div class="platform-tabs__indicator"></div>
+                    </div>
                 </div>
 
                 <!-- Arch Animation -->
