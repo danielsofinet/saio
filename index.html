@@ -510,6 +510,25 @@
         
         // Initial check
         updateNav();
+
+        // Platform-aware download handler
+        function handleDownload() {
+            var isMobile = /iPhone|iPad|iPod|Android/i.test(navigator.userAgent);
+            if (isMobile) {
+                window.location.href = 'https://apps.apple.com/app/id6759406452';
+            } else {
+                window.location.href = 'https://saio-app.com/Saio.dmg';
+            }
+        }
+
+        // Wire up all download buttons
+        document.querySelectorAll('.btn').forEach(function(btn) {
+            btn.addEventListener('click', handleDownload);
+        });
+        document.querySelector('.download-btn a').addEventListener('click', function(e) {
+            e.preventDefault();
+            handleDownload();
+        });
     </script>
 
     <script>
