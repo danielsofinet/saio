@@ -6,21 +6,21 @@
         <description>Latest updates for Saio</description>
         <language>en</language>
         <item>
-            <title>Version 1.1</title>
-            <sparkle:version>2</sparkle:version>
-            <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
+            <title>Version 1.0.1</title>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <description><![CDATA[
                 <ul>
-                    <li>Bug fixes and improvements</li>
+                    <li>Bug fixes and stability improvements</li>
                 </ul>
             ]]></description>
-            <pubDate>Mon, 03 Mar 2026 00:00:00 +0000</pubDate>
+            <pubDate>Mon, 03 Mar 2026 22:45:00 +0000</pubDate>
             <enclosure
                 url="https://saio-app.com/Saio.dmg"
                 type="application/octet-stream"
-                sparkle:edSignature="jqsZkmj+WP9LKNtmU3AMtfbyaQNp4RRnhY4cz1QSGzvucOkx5M3sd516kbyIJXej+kJlAhEBWfjHQ3mDRFm4Bg=="
-                length="48002782"
+                sparkle:edSignature="XAnLuJftb76UAxtT0g2a6usLBXdEVXlE6eHM2NuZS1EAhdrWjsUecpp507qdgU7gjLSILl4A3lHmbORzowFNAg=="
+                length="48006197"
             />
         </item>
     </channel>
