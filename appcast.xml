@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel>
+        <title>Saio Updates</title>
+        <link>https://saio-app.com/appcast.xml</link>
+        <description>Latest updates for Saio</description>
+        <language>en</language>
+        <item>
+            <title>Version 1.1</title>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <ul>
+                    <li>Bug fixes and improvements</li>
+                </ul>
+            ]]></description>
+            <pubDate>Mon, 03 Mar 2026 00:00:00 +0000</pubDate>
+            <enclosure
+                url="https://saio-app.com/Saio.dmg"
+                type="application/octet-stream"
+                sparkle:edSignature="jqsZkmj+WP9LKNtmU3AMtfbyaQNp4RRnhY4cz1QSGzvucOkx5M3sd516kbyIJXej+kJlAhEBWfjHQ3mDRFm4Bg=="
+                length="48002782"
+            />
+        </item>
+    </channel>
+</rss>
