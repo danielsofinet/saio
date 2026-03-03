@@ -19,8 +19,8 @@
             <enclosure
                 url="https://saio-app.com/Saio.dmg"
                 type="application/octet-stream"
-                sparkle:edSignature="tHtGdy0mMishKBxgN7SvG9XLrdY+uth/kDLwAG59cSbKW0j50WHgWUQJUgSQKErvi57v8xceMF4UOW4Wgv8qDw=="
-                length="48006483"
+                sparkle:edSignature="hxu28odSiCXXzM/pH22gFADo/t5gAZrknM61Hv/GX/Jx/ANOf97tTmyV5ENi7pOZ5pwAAmI9BIvKSclEurQmDQ=="
+                length="48006162"
             />
         </item>
     </channel>
