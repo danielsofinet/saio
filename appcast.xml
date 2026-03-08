@@ -7,7 +7,7 @@
         <language>en</language>
         <item>
             <title>Version 1.0.2</title>
-            <sparkle:version>5</sparkle:version>
+            <sparkle:version>6</sparkle:version>
             <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <description><![CDATA[
@@ -16,14 +16,15 @@
                     <li>Recordings now process up to 3x faster with parallel transcription</li>
                     <li>Added estimated time remaining during processing</li>
                     <li>Improved reliability with automatic retry on network errors</li>
+                    <li>Fixed screen recording permission prompt appearing on every recording</li>
                 </ul>
             ]]></description>
             <pubDate>Sat, 08 Mar 2026 15:30:00 +0000</pubDate>
             <enclosure
                 url="https://saio-app.com/Saio.dmg"
                 type="application/octet-stream"
-                sparkle:edSignature="s+JAW5c5jn+cXImCINR0fwGSU2g5CIEdDGZTjPVuOHlEKP1VKrb6UqozdAVEDSbSz3WnudOVWF/E28bU8KGPCw=="
-                length="53099659"
+                sparkle:edSignature="qJirsjG8GvDlX86wWD07l6CsZfXmQXrTs60B59pfg+992sv0S9NLK8bP6C5ePMPXzKYyqidsR/Hn+M7qwhuDBQ=="
+                length="53101397"
             />
         </item>
     </channel>
