@@ -7,22 +7,23 @@
         <language>en</language>
         <item>
             <title>Version 1.0.2</title>
-            <sparkle:version>4</sparkle:version>
+            <sparkle:version>5</sparkle:version>
             <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <description><![CDATA[
                 <ul>
-                    <li>Fixed long recordings failing silently (now supports up to 2 hours)</li>
-                    <li>Added transcription progress indicator for long recordings</li>
-                    <li>Processing errors now show a clear message instead of failing silently</li>
+                    <li>Fixed long recordings (30min+) failing to process</li>
+                    <li>Recordings now process up to 3x faster with parallel transcription</li>
+                    <li>Added estimated time remaining during processing</li>
+                    <li>Improved reliability with automatic retry on network errors</li>
                 </ul>
             ]]></description>
-            <pubDate>Sat, 08 Mar 2026 14:00:00 +0000</pubDate>
+            <pubDate>Sat, 08 Mar 2026 15:30:00 +0000</pubDate>
             <enclosure
                 url="https://saio-app.com/Saio.dmg"
                 type="application/octet-stream"
-                sparkle:edSignature="1XX2dUx3mR8+ZGmH4ZeHACNJ8Xoe7xarttgnr+IIzBUch8SrbkxKfo3Cy7oMM9iijzqJ+oVbLn/PwxE1IzoACQ=="
-                length="48012039"
+                sparkle:edSignature="s+JAW5c5jn+cXImCINR0fwGSU2g5CIEdDGZTjPVuOHlEKP1VKrb6UqozdAVEDSbSz3WnudOVWF/E28bU8KGPCw=="
+                length="53099659"
             />
         </item>
     </channel>
