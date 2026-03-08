@@ -6,21 +6,23 @@
         <description>Latest updates for Saio</description>
         <language>en</language>
         <item>
-            <title>Version 1.0.1</title>
-            <sparkle:version>3</sparkle:version>
-            <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+            <title>Version 1.0.2</title>
+            <sparkle:version>4</sparkle:version>
+            <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <description><![CDATA[
                 <ul>
-                    <li>Bug fixes and stability improvements</li>
+                    <li>Fixed long recordings failing silently (now supports up to 2 hours)</li>
+                    <li>Added transcription progress indicator for long recordings</li>
+                    <li>Processing errors now show a clear message instead of failing silently</li>
                 </ul>
             ]]></description>
-            <pubDate>Mon, 03 Mar 2026 22:45:00 +0000</pubDate>
+            <pubDate>Sat, 08 Mar 2026 14:00:00 +0000</pubDate>
             <enclosure
                 url="https://saio-app.com/Saio.dmg"
                 type="application/octet-stream"
-                sparkle:edSignature="eq4WG67Z6PzPxu4udlY6zaO73lOynSKfB+XH/WvwdSa6/yKHCbFW2kGLb1WTf5LIhl0JyftwkC5ptnu5B+lQAQ=="
-                length="48008834"
+                sparkle:edSignature="1XX2dUx3mR8+ZGmH4ZeHACNJ8Xoe7xarttgnr+IIzBUch8SrbkxKfo3Cy7oMM9iijzqJ+oVbLn/PwxE1IzoACQ=="
+                length="48012039"
             />
         </item>
     </channel>
