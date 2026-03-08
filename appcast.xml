@@ -7,7 +7,7 @@
         <language>en</language>
         <item>
             <title>Version 1.0.2</title>
-            <sparkle:version>6</sparkle:version>
+            <sparkle:version>7</sparkle:version>
             <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <description><![CDATA[
@@ -23,8 +23,8 @@
             <enclosure
                 url="https://saio-app.com/Saio.dmg"
                 type="application/octet-stream"
-                sparkle:edSignature="qJirsjG8GvDlX86wWD07l6CsZfXmQXrTs60B59pfg+992sv0S9NLK8bP6C5ePMPXzKYyqidsR/Hn+M7qwhuDBQ=="
-                length="53101397"
+                sparkle:edSignature="d7eNDOAlDYzA6JxvpoUt3QQRxs4ixgf0Kxo/2leobeZQtJqkZCdwa58vlrCubssef3zYj3a0hM8piFr91+GADg=="
+                length="53099790"
             />
         </item>
     </channel>
