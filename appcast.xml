@@ -7,7 +7,7 @@
         <language>en</language>
         <item>
             <title>Version 1.0.2</title>
-            <sparkle:version>10</sparkle:version>
+            <sparkle:version>11</sparkle:version>
             <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <description><![CDATA[
@@ -21,12 +21,12 @@
                     <li>Fixed microphone not activating on first launch</li>
                 </ul>
             ]]></description>
-            <pubDate>Sun, 09 Mar 2026 12:30:00 +0000</pubDate>
+            <pubDate>Sun, 09 Mar 2026 13:00:00 +0000</pubDate>
             <enclosure
                 url="https://saio-app.com/Saio.dmg"
                 type="application/octet-stream"
-                sparkle:edSignature="xz0vp9W8nqXEhXXmrODR4SfFc/Ixg+ym7SEcg0XeU0Wt3z6QwzH9IQbO+86j+gFko1gVBbvTMflWXNd+0tiEAA=="
-                length="48041981"
+                sparkle:edSignature="YS2+jBEmJhWzA5z62DP+ciRboLFm8zPBSG6RSIP+DVSD3yiwM7Yy9yU1JsVkKHLeCDisVRhJRC/7/HqoBKtFBg=="
+                length="48042102"
             />
         </item>
     </channel>
