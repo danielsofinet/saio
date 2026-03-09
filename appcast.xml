@@ -6,9 +6,9 @@
         <description>Latest updates for Saio</description>
         <language>en</language>
         <item>
-            <title>Version 1.0.3</title>
-            <sparkle:version>9</sparkle:version>
-            <sparkle:shortVersionString>1.0.3</sparkle:shortVersionString>
+            <title>Version 1.0.2</title>
+            <sparkle:version>10</sparkle:version>
+            <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <description><![CDATA[
                 <ul>
@@ -18,14 +18,15 @@
                     <li>Improved reliability with automatic retry on network errors</li>
                     <li>Fixed summarization timeout for long meetings</li>
                     <li>Transcripts are now saved immediately — never lost if processing fails</li>
+                    <li>Fixed microphone not activating on first launch</li>
                 </ul>
             ]]></description>
-            <pubDate>Sat, 08 Mar 2026 17:00:00 +0000</pubDate>
+            <pubDate>Sun, 09 Mar 2026 12:30:00 +0000</pubDate>
             <enclosure
                 url="https://saio-app.com/Saio.dmg"
                 type="application/octet-stream"
-                sparkle:edSignature="pq3HS+bHA+Ey3vbVosj5+pp9KW9P46SSOelq9lNuBVwkTmQ9kedIck/d6G5D5hRalpd1k2yJrSJ2eigoTnOpCg=="
-                length="48042776"
+                sparkle:edSignature="xz0vp9W8nqXEhXXmrODR4SfFc/Ixg+ym7SEcg0XeU0Wt3z6QwzH9IQbO+86j+gFko1gVBbvTMflWXNd+0tiEAA=="
+                length="48041981"
             />
         </item>
     </channel>
