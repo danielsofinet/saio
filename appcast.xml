@@ -7,7 +7,7 @@
         <language>en</language>
         <item>
             <title>Version 1.0.3</title>
-            <sparkle:version>14</sparkle:version>
+            <sparkle:version>15</sparkle:version>
             <sparkle:shortVersionString>1.0.3</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <description><![CDATA[
@@ -16,14 +16,15 @@
                     <li>Template chooser when starting a recording</li>
                     <li>Manage templates from Settings</li>
                     <li>In-app update banner so you never miss a new version</li>
+                    <li>Template descriptions now fully localized</li>
                 </ul>
             ]]></description>
-            <pubDate>Tue, 29 Apr 2026 10:00:00 +0000</pubDate>
+            <pubDate>Tue, 29 Apr 2026 13:00:00 +0000</pubDate>
             <enclosure
                 url="https://saio-app.com/Saio.dmg"
                 type="application/octet-stream"
-                sparkle:edSignature="wRbS1UEK/CyAocmULx4FgmC5tQ8nyIu9R2vdtGgPJM8lZlUHj6sad2h1R7N5HUuy22bOPLfQv2zBQiNz7bjDBQ=="
-                length="47354164"
+                sparkle:edSignature="pbSFjfMOiXzlJPF8jIynSfu7LkcdlVWEhA3sJvNSNTzmjcLip/ezLS2KufB3IgQVo0MA1+KIA4zI+Ij/tbafCA=="
+                length="48212080"
             />
         </item>
         <item>
